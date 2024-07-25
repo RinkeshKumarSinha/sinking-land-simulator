@@ -16,7 +16,10 @@ def main():
     ## Special Thanks and Acknowledgments
 
     I am pleased to present this project, which has been a labor of love and dedication. 
-
+    
+    ### GitHub Project Link
+    - [**GitHub Profile**](https://github.com/RinkeshKumarSinha/sinking-land-simulator)
+                
     ### GitHub Profile
     - [**GitHub Profile**](https://github.com/RinkeshKumarSinha)
 
