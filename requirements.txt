@@ -7,3 +7,4 @@ prophet
 opencv-python
 opencv-python-headless
 moviepy
+python3-opencv
