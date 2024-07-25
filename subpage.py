@@ -80,9 +80,9 @@ def bfs_side_ways(mat, vis, curr_sea_level):
     return m * n - cnt
 
 def generate_random_input():
-    H = random.randint(1, 100)
-    W = random.randint(1, 100)
-    Y = random.randint(1, 20)
+    H = random.randint(1, 10)
+    W = random.randint(1, 10)
+    Y = random.randint(1, 15)
     matrix = [[random.randint(1, 100) for _ in range(W)] for _ in range(H)]
     return H, W, Y, matrix
 
