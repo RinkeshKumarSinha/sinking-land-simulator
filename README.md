@@ -1,7 +1,7 @@
 
 #  sinking-land-simulator  
 
-[Access Online Deployed App](https://sinking-land-simulator-dpejuwpqb6aamee5chajad.streamlit.app/)
+[Access Online Deployed App](https://sinking-land-simulator-bv9otrkkljgsnnllioxbph.streamlit.app/)
 
 
 #### "Simulate how a land sinks"
