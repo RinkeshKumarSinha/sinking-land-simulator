@@ -7,3 +7,4 @@ prophet
 opencv-python
 opencv-python-headless
 import ImageSequenceClip
+moviepy
