@@ -6,5 +6,4 @@ pandas-datareader
 prophet
 opencv-python
 opencv-python-headless
-import ImageSequenceClip
 moviepy
